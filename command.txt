@@ -1,0 +1,4 @@
+floyd run --cpu --env tensorflow --data ranickpatra/datasets/cat_dog:cat_dog 'python retrain.py --image_dir /cat_dog --output_graph /output/output_graph_cat_dog.pb --output_labels /output/output_labels_cat_dog.txt'
+
+
+python3 retrain.py --image_dir cat_dog/ --output_graph ./output_cat_dog.pb --output_labels labels.txt --bottleneck_dir ./btlneck
