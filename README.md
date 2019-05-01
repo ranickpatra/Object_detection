@@ -1,3 +1,3 @@
 # Object_detection
 
-tese objecty detection and locate object in image
+tese objecty detection and locate object in image 
